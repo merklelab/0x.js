@@ -19,6 +19,7 @@
     },
     "dependencies": {
         "@0xproject/assert": "^0.0.20",
+        "@0xproject/deployer": "^0.1.0",
         "@0xproject/types": "^0.2.3",
         "@0xproject/utils": "^0.3.4",
         "bn.js": "^4.11.8",
@@ -44,6 +45,7 @@
         "chai-as-promised-typescript-typings": "^0.0.9",
         "chai-typescript-typings": "^0.0.3",
         "dirty-chai": "^2.0.1",
+        "ganache-core": "file:../../../ganache-core",
         "mocha": "^4.0.1",
         "npm-run-all": "^4.1.2",
         "shx": "^0.2.2",
